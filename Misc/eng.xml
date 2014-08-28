@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- GlucoMeter Messages English 11/08/2014 -->
+<messages>
+		<class name="DirectoryChooser" >
+	   		<tag name="openButton"  msg="Browse"/>
+		</class>
+		<class name="main_win" >
+			<tag name="Main_title"  msg="Onetouch readers manager"/>
+	   		<tag name="device_log"  msg="device log" />
+	   		<tag name="Read_Memory"  msg="Read memory"/>
+	   		<tag name="Erase_Memory"  msg="Erase memory"/>
+	   		<tag name="read"  msg="read : "/>
+	   		<tag name="Process"  msg="Process rec."/>
+	   		<tag name="Port"  msg="Port  :"/>
+	   		<tag name="User"  msg="User  :"/>
+	   		<tag name="Select"  msg="Selected meter"/>
+	   </class>
+</messages>

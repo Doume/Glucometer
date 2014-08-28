@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <last>
+    <!-- last session settings -->
+    <lang>eng.xml</lang>
+    <XML_Path>/home/domi/share_win7/GlucoMeter/records.xml</XML_Path>
+    <GGC_Path>/home/domi/share_win7/GlucoMeter/DayValueH.dbe</GGC_Path>
+    <Meter>2</Meter>
+    <Start_Date>01/11/2011</Start_Date>
+    <End_Date>02/03/2012</End_Date>
+  </last>
+  <readers>
+  	<reader id="1" manufacturer="Lifescan" name="Onetouch Ultra"    picture="ls_ot_ultra.jpg" port="/dev/ttyUSB0" userid="1" />
+  	<reader id="2" manufacturer="Lifescan" name="Onetouch Verio IQ" picture="ls_ot_verio.jpg" port="/dev/ttyUSB1" userid="1" />
+  </readers>
+  <users>
+      <user id="1" name="DAMBRAIN Dominique" />
+  </users>
+</settings>
+
