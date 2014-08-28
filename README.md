@@ -7,8 +7,8 @@ Some components have been cloned from project 'GNU Gluco Control'
 
 The goal is to handle glucose meters outside of GGC application
 
-Java application managing some Onetouch serial glucometers :
-------------------------------------------------------------
+Java application managing some Onetouch glucometers :
+-----------------------------------------------------
 
 Supported meters :
 
